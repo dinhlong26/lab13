@@ -1,0 +1,26 @@
+.bg-img1 {
+  width: 100%;
+  height: 500px;
+  object-fit: cover; /* thuộc tính duy trì tỉ lệ khung hình */
+  object-position: 0% 10%; /* chọn vị trí để crop ảnh */
+  filter: brightness(50%); /*Làm tối hình banner*/
+}
+
+/*
+filter: brightness(50%); /*Làm tối hình banner*/
+
+.bg-img2 {
+  width: 100%;
+  height: 500px;
+  object-fit: cover; /* thuộc tính duy trì tỉ lệ khung hình */
+  object-position: 0% 50%; /* chọn vị trí để crop ảnh */
+  filter: brightness(50%); /*Làm tối hình banner*/
+}
+
+.bg-img3 {
+  width: 100%;
+  height: 500px;
+  object-fit: cover; /* thuộc tính duy trì tỉ lệ khung hình */
+  object-position: 0% 60%; /* chọn vị trí để crop ảnh */
+  filter: brightness(50%); /*Làm tối hình banner*/
+}
